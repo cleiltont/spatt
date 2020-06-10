@@ -6,33 +6,33 @@
 <p>É um CRUD feito em NodeJs. Ele armazena projetos e suas tarefas.</p>
 
 <h2>Pré-requisitos</h2>
-- Ter NodeJS instalado
+<li>Ter NodeJS instalado</li>
 
 <h2>Dependências</h2>
-- Nodemon
-- Express
+<li>Nodemon</li>
+<li>Express</li>
 
 <h2>Como rodar a aplicação</h2>
-- No terminal, clone o projeto:
+<li>No terminal, clone o projeto:</li>
 		git clone https://
-- Entre na pasta do projeto
+<li>Entre na pasta do projeto</li>
 		cd nomeDoProjeto
-Instale as dependências:
+<li>Instale as dependências:<li>
 		yarn install
-Execute a aplicação:
+<li>Execute a aplicação:</li>
 		yarn start
-Pronto, agora é possível acessar a aplicação a partir da rota
+<li>Pronto, agora é possível acessar a aplicação a partir da rota</li>
 
 <h2>Conhecimento obtido</h2>
-- <strong>Methods:</strong>
-	- GET = Para lista os projeto
-	- POST = Para criar novos projetos e tarefas
-	- PUT = Para altera no do projeto dados do projeto
-	- DELETE = Para excluir projeto
+<strong>Methods:</strong>
+	<p>GET = Para lista os projeto</p>
+	<p>POST = Para criar novos projetos e tarefas</p>
+	<p>PUT = Para altera no do projeto dados do projeto</p>
+	<p>DELETE = Para excluir projeto</p>
 
-- <strong>Middlewares:</strong>
-	- Verica se o projeto já existe.
-	- Verifica cada requisição e mostra o tempo da resposta.git statu
+<strong>Middlewares:</strong>
+	<p>Verica se o projeto já existe.</p>
+	<p>Verifica cada requisição e mostra o tempo da resposta.git statu</p>
 
 
 <p align="center">Feito com :heart: by Cleilton Timoteo</p>
