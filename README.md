@@ -1,5 +1,5 @@
-# spatt
-Store projects and their tasks
+<h1>spatt</h1>
+<p>Store projects and their tasks</p>
 
 ## Sobre
 É um CRUD feito em NodeJs.
@@ -14,4 +14,5 @@ Ele armazena projetos e suas tarefas.
 
 - **Middlewares:**
 	- Verica se o projeto já existe.
-	- Verifica cada requisição e mostra o tempo da resposta.
+	- Verifica cada requisição e mostra o tempo da resposta.git statu
+
